@@ -1,0 +1,7 @@
+Recipient: patient1
+Medication: Losartan
+Dosage: 1
+Frequency: once a day
+Start Date: 2024-11-30
+End Date: 2024-12-10
+------------------------------
